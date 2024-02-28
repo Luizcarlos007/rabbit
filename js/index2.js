@@ -6,7 +6,7 @@ function insertTopBar() {
 	const topBar = `<div class="top-bar">
 <div class="container-layout">
   <div class="top-bar-content">
-    <a href="../index.html">
+    <a href="https://luizcarlos007.github.io/principal/">
       <div class='item'>
         <i class='bx bx-left-arrow-alt'></i>
         <span>
@@ -14,7 +14,7 @@ function insertTopBar() {
         </span>
       </div>
     </a>
-    <a href="../index.html">
+    <a href="https://luizcarlos007.github.io/principal/">
       <div class='item'>
         <i class="bx bxs-home "></i>
         <span>
@@ -22,7 +22,7 @@ function insertTopBar() {
         </span>
       </div>
     </a>
-    <a href="../aula.html">
+    <a href="https://luizcarlos007.github.io/aula/">
       <div class='item '>
       <i class='bx bxs-graduation'></i>
         <span>
